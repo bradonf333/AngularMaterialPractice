@@ -1,2 +1,19 @@
-<app-toolbar></app-toolbar>     <!-- ToolBar -->
-<router-outlet></router-outlet> <!-- MainContent -->
+<!-- Actual SideNav -->
+<mat-sidenav-container class="app-sidenav-container">
+  <mat-sidenav #sidenav class="app-sidenav">
+    Jolly good!
+  </mat-sidenav>
+
+  <div class="app-sidenav-content">
+
+    <!-- ToolBar - Goes in Sidenav -->
+    <app-toolbar></app-toolbar>
+    <!-- MainContent -->
+    <router-outlet></router-outlet>
+
+    <button type="button" mat-button (click)="sidenav.open()">
+      Open Sidenav
+    </button>
+  </div>
+
+</mat-sidenav-container>
