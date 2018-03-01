@@ -1,5 +1,6 @@
 import { FormsModule } from '@angular/forms';
 import { MaterialModule } from './../shared/material.module';
+import { FlexLayoutModule } from '@angular/flex-layout';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
@@ -12,6 +13,7 @@ import { FlexboxComponent } from './flexbox/flexbox.component';
     CommonModule,
     DemoRoutingModule,
     MaterialModule,
+    FlexLayoutModule,
     FormsModule
   ],
   declarations: [ButtonsComponent, FlexboxComponent]
