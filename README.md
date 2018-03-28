@@ -1,3 +1,12 @@
+## Demos
+### Main Index Page
+
+Only have basic functionality working so far.
+![alt text](https://github.com/bradonf333/PrograAngularMaterialPractice/blob/master/Demos/MaterialDesignDemo.gif "Main Page")
+
+
+
+
 # AngularMaterial
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.3.
