@@ -2,7 +2,7 @@
 ### Main Index Page
 
 Only have basic functionality working so far.
-![alt text](https://github.com/bradonf333/PrograAngularMaterialPractice/blob/master/Demos/MaterialDesignDemo.gif "Main Page")
+![alt text](https://github.com/bradonf333/AngularMaterialPractice/blob/master/Demos/MaterialDesignDemo.gif "Main Page")
 
 
 
